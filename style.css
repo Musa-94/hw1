@@ -2,10 +2,9 @@
     box-sizing: border-box;
 }
 
-html{}
-body{
+
     
-}
+
 
 .header{
     background-color: #fff;
@@ -58,10 +57,7 @@ body{
 }
 
 
-.container{
-    
-    
-}
+
 
 .text{
     width: 50%;
