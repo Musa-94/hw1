@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+html{}
+body{
+    
+}
+
+.header{
+    background-color: #fff;
+    height: 150px;
+    padding: 6px 1px 0 0;
+    border-bottom: 1px solid #000;    
+}
+.logo{
+
+    height: 50px;
+    position: absolute;
+}
+
+.title{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    
+}
+
+.lesson__score{
+    text-align: left;
+    font-size: 30px;
+}
+
+.lessons{
+    margin-top: 20px;
+    display: flex;
+    
+}
+
+.themes__lesson {
+    text-decoration: none;
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+}
+
+.themes__lesson:hover{
+    outline: 1px solid gold;
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+}
+
+.hero__bunny{
+    position: absolute;
+    height: 400px;
+    margin-left: 50%;
+}
+
+
+.container{}
+
+.text{
+    width: 50%;
+    
+
+}
